@@ -7,12 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePickerBinding", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{4C1CD8A5-11B0-4067-B78F-18847223503E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot", "Screenshot", "{FD7E0F53-7D65-47EC-B649-68289737CA62}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\DatePicker.PNG = ..\..\..\..\Desktop\DatePicker.PNG
-		..\..\..\..\Desktop\TimePicker.PNG = ..\..\..\..\Desktop\TimePicker.PNG
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
