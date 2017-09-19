@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePickerBinding", "DateTimePickerBinding\DateTimePickerBinding.csproj", "{6D151A51-F087-4846-ADFB-C79501E388BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{4C1CD8A5-11B0-4067-B78F-18847223503E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{6D151A51-F087-4846-ADFB-C79501E388BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D151A51-F087-4846-ADFB-C79501E388BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D151A51-F087-4846-ADFB-C79501E388BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1CD8A5-11B0-4067-B78F-18847223503E}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
