@@ -92,8 +92,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Screenshot\DatePicker.PNG" />
-    <Content Include="Screenshot\TimePicker.PNG" />
+    <Content Include="Screenshot\DateTimePicker.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
