@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+#DEPRECATED
+This repository is now deprecated. This is no longer supported.
+
 # Xamarin DateTimePicker
 
 This project is a binding for [DateTimePicker Library](https://github.com/CiTuX/datetimepicker)
